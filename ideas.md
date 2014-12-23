@@ -16,9 +16,9 @@ intentions and target groups.
 ## The Fruit-Ripeness-Meter
 
 Buying ripe fruit in a supermarkt can be a real hassle for red-green color
-blind people. For exampling choosing a banana that is ready to eat is
+blind people. For example choosing a banana that is ready to eat is
 difficult, as the difference between an unripe green banana and a ripe yellow
-one is sometimes very suttle, making it hard to spot a good banana with the
+one is sometimes very subtle, making it hard to spot a good banana with the
 bare eye.
 
 This app will help red-green color bling people by allowing them to take a
