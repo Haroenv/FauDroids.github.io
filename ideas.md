@@ -13,7 +13,7 @@ This is a loosely organized list of potential Android app ideas, their
 intentions and target groups.
 
 
-## The Fruit-Ripeness-Meter
+### The Fruit-Ripeness-Meter
 
 Buying ripe fruit in a supermarkt can be a real hassle for red-green color
 blind people. For example choosing a banana that is ready to eat is
@@ -25,7 +25,7 @@ This app will help red-green color bling people by allowing them to take a
 picture of their fruit and getting told whether or not it is ripe. 
 
 
-## Peer to peer messenger 
+### Peer to peer messenger 
 
 Popular mobile chatting apps all require backends to deliver messages to their
 receivers. This is less than ideal when considering privacy or when being
@@ -37,6 +37,6 @@ little longer for a message to propagate to its destintation, it could serve as
 a valuable addition to existing apps.
 
 
-## A tool for learning computer science
+### A tool for learning computer science
 
 TODO

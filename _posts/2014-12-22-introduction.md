@@ -17,7 +17,7 @@ mostly focues on what interests us personally and things that are fun to build
 :)
 
 
-## Rules
+### Rules
 
 There are no rules.
 
@@ -27,13 +27,13 @@ periods of time. That's why we came up with this challenge and have limited the
 active development time of one app to one month only. Check out a detailed
 description at the [challenges page]({{ site.baseurl }}/challenge).
 
-## Ideas
+### Ideas
 
 [Here]({{ site.baseurl }}/ideas)  you can find an overview of our current ideas
 and their progress.  If you have an idea of your own or want to comment on one
 of the exisiting ones be sure to drop us a note (TODO where?? Comments, mail?)
 
-## Team
+### Team
 
 We are a small team of students that are living and studying in Germany. If you
 would like to know more check out our [profile page]({{ site.baseurl }}/team).
