@@ -16,9 +16,11 @@ url:	                http://FauDroids.github.io/
 authors:
     philipp:
         name:	        Philipp Eichhorn
-        display_name:	Philipp
+        role:	        Software Developer
+        message:	    Hi there! My name is Philipp and I am studying computer science here in Germany. Make sure to drop me a note in case you find some of the projects interesting!
         email:	        philipp.eichhorn@bitdroid.de
-        github:	        https://github.com/Maddoc42
+        github:	        Maddoc42
+        homepage:	    http://bitdroid.de
 
 paginate:	            5
 

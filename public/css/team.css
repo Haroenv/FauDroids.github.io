@@ -1,0 +1,12 @@
+.author-role{
+  margin-top: -0.5rem;
+  font-size:0.9rem;
+  margin-bottom: 0.5rem;
+  color: #9a9a9a;
+}
+
+.author-contact a{
+  float:left;
+  margin-right:0.5rem;
+  margin-top:-0.5rem;
+}
