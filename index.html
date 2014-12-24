@@ -13,7 +13,7 @@ title: Home
       </a>
     </h1>
 
-	<span class="post-author-date">by {{ author.name }} &ndash; {{ post.date | date_to_string }}</span>
+	<span class="post-author-date">by <a href={{ site.baseurl }}/team#{{     post.author }}>{{ author.name }}</a> &ndash; {{ post.date | date_to_string }}</span>
 
     {{ post.content }}
   </div>

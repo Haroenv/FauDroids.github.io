@@ -4,7 +4,8 @@ title: Team
 ---
 
 {% for author in site.authors %}
-### {{ author[1].name }}<a name="{{ author[0] }}"></a>
+<a name="{{ author[0] }}"></a>
+### {{ author[1].name }}
 <div class="author-role">{{ author[1].role }}</div>
 
 {{ author[1].message }}
@@ -28,7 +29,7 @@ title: Team
 <img src="{{ site.baseurl }}/public/imgs/icon_home.svg" with="30" height="30" alt="homepage"/>
 </a>
 {%endif %}
-
 </div>
+<br>
 
 {% endfor %}
