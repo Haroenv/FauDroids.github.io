@@ -10,10 +10,11 @@ author: philipp
 	</cite>
 </div>
 
-The Android Challenge is a personal project where we will build and release one
-Android app each month for the next 12 months. There are no real restrictions on
-the kind of app or their scope, so we will mostly focues on what interests us
-personally and things that are fun to build :)
+<strong>The Android Challenge</strong> is a personal project where we will
+build and release <em>one Android app each month for the next 12 months</em>.
+There are no real restrictions on the kind of app or their scope, so we will
+mostly focues on what interests us personally and things that are fun to build
+:)
 
 
 ## Rules
