@@ -13,19 +13,19 @@ title: Team
 
 {% if author[1].github %}
 <a href="https://github.com/{{ author[1].github }}" target="_blank">
-<img src="{{ site.baseurl }}/public/imgs/icon_github.svg" with="40" height="40" alt="github"/>
+<img src="{{ site.baseurl }}/public/imgs/icon_github.svg" with="30" height="30" alt="github"/>
 </a>
 {% endif %}
 
 {% if author[1].email %}
 <a href="mailto:{{ author[1].email }}" target="_top">
-<img src="{{ site.baseurl }}/public/imgs/icon_mail.svg" with="40" height="40" alt="email"/>
+<img src="{{ site.baseurl }}/public/imgs/icon_mail.svg" with="30" height="30" alt="email"/>
 </a>
 {%endif %}
 
 {% if author[1].homepage %}
 <a href="{{ author[1].homepage }}" target="_blank">
-<img src="{{ site.baseurl }}/public/imgs/icon_home.svg" with="40" height="40" alt="homepage"/>
+<img src="{{ site.baseurl }}/public/imgs/icon_home.svg" with="30" height="30" alt="homepage"/>
 </a>
 {%endif %}
 
