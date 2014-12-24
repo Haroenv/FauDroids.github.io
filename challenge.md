@@ -3,13 +3,33 @@ layout: page
 title: Challenge
 ---
 
-Borrowed from the famous one game a month challenge, we'll develop and release
-one Android app every month for the next 12 months. 
+The Android challenge is about building and releasing one Android app each
+month for a whole year starting on the 01.01.2015. The main purpose of limiting
+development time to just one month is to keep us motivated and coming up and
+trying new ideas that would have otherwise been discarded.
 
-## Rules
+### But isn't that a lot of work?
 
-TODO
+Yes, probably. That's why we are a team of students working on this together
+rather than each following our own projects. True, there will be months where
+we will have less time to work on the app and have to focus on other things.
+However as we are not placing any restrictions on how large an app must be, we
+can always adjust the app's scope on how much time we have.
 
-1. The App has to be released (e.g. Google Play Store) at the end of each month with an optional  *48 hours extension* to the deadline
-2. The App can be about pretty much anything
-3. Anything else?
+### Any rules?
+
+Sort of. The number one rule is <strong>having fun</strong>, after all that's
+why we are doing this :)
+
+Other than that there are some general guidelines on what we want to
+accomplish:
+
+1. <em>Release</em> one Android app at the end of each month
+2. The release deadline can optionally <em>extended by 48 hours</em> (to get those last minute bugs out of there)
+3. Each month should ideally produce a new app. However, if we feel that one app has really taken of, adding additional features to it is also fine.
+
+### Where can I find the apps?
+
+At the end of January we will post a link to our account in the appstore where
+you can find all our released apps. In the meantime checkout our
+[GitHub account]({{ site.github.repo }}) to see our current progess.
