@@ -65,7 +65,7 @@ and could then compete with one another in various challenges.
 </div>
 [Source](http://www.bzga.de/pdf.php?id=c81227485975b05579bc304b0745b347)
 
-As you just read, donating organs may save other peoples lifes. Since organ donation prerequisits you to carry an organ donor card with you, I came up with the idea to provide an electronic pendant to the classic printed version. 
+As you just read, donating organs may save other people's lifes. Since organ donation prerequisites you to carry an organ donor card with you, I came up with the idea to provide an electronic pendant to the classic printed version. 
 
 Since most people own a smartphone, which they happen to carry with them almost all the time, it would be great to have an organ donor app which provides a lockscreen widget. Using this widget it would be possible to view the organ donor card even if the smartphone is locked.
 
