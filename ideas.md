@@ -51,6 +51,24 @@ this would lead to a diverse set of creates which all have different abilities
 and could then compete with one another in various challenges.
 
 
+### Electronic organ donor card
+
+<div class="message">
+	<cite>
+        Organ or tissue transplantation can give ill and disabled people the
+        chance of a new or better life. The prerequisite is, and always will be,
+        that people continue to express their willingness to donate organs and/
+        or tissue after their death. We would therefore ask you to think about
+        the subject of organ and tissue donation and then reach your own,
+        personal decision. &mdash; Bundeszentrale für gesundheitliche Aufklärung, [Source](www.bzga.de/pdf.php?id=c81227485975b05579bc304b0745b347)
+	</cite>
+</div>
+
+As you just read, donating organs may save other peoples lifes. Since organ donation prerequisits you to carry an organ donor card with you, I came up with the idea to provide an electronic pendant to the classic printed version. 
+
+Since most people own a smartphone, which they happen to carry with them almost all the time, it would be great to have an organ donor app which provides a lockscreen widget. Using this widget it would be possible to view the organ donor card even if the smartphone is locked.
+
+
 ### A Tool for Learning Computer Science
 
 TODO
