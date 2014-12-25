@@ -63,7 +63,7 @@ and could then compete with one another in various challenges.
         personal decision. &mdash; Bundeszentrale für gesundheitliche Aufklärung
     </cite>
 </div>
-[Source](www.bzga.de/pdf.php?id=c81227485975b05579bc304b0745b347)
+[Source](http://www.bzga.de/pdf.php?id=c81227485975b05579bc304b0745b347)
 
 As you just read, donating organs may save other peoples lifes. Since organ donation prerequisits you to carry an organ donor card with you, I came up with the idea to provide an electronic pendant to the classic printed version. 
 
