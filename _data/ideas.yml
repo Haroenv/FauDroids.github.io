@@ -1,4 +1,4 @@
-- name: fruit-ripeness-meter
+- name: fruit_ripeness_meter
   title: The Fruit-Ripeness-Meter
   content: |+
       Buying ripe fruit in a supermarkt can be a real hassle for red-green color
@@ -10,7 +10,7 @@
       This app will help red-green color bling people by allowing them to take a
       picture of their fruit and getting told whether or not it is ripe. 
 
-- name: p2p-messenger
+- name: p2p_messenger
   title: Peer to Peer Messenger
   content: |+
       Popular mobile chatting apps all require backends to deliver messages to
@@ -22,7 +22,7 @@
       might take a little longer for a message to propagate to its destintation,
       it could serve as a valuable addition to existing apps.
 
-- name: distributed-evolution-game
+- name: distributed_evolution_game
   title: The Distributed Evolution Game
   content: |+
       Nowadays virtually everyone you meet has a powerful smartphone right in
@@ -36,7 +36,7 @@
       enough this would lead to a diverse set of creates which all have different
       abilities and could then compete with one another in various challenges.
 
-- name: organ-donor-card
+- name: organ_donor_card
   title: Electronic organ donor card
   content: |+
       <div class="message"><cite>
@@ -47,7 +47,8 @@
       the subject of organ and tissue donation and then reach your own,
       personal decision. &mdash; Bundeszentrale für gesundheitliche Aufklärung
       </cite></div>
-      [Source](http://www.bzga.de/pdf.php?id=c81227485975b05579bc304b0745b347)
+
+      <p><a href="http://www.bzga.de/pdf.php?id=c81227485975b05579bc304b0745b347">Source</a></p>
       
       As you just read, donating organs may save other people's lifes. Since organ
       donation prerequisites you to carry an organ donor card with you, I came up
@@ -57,3 +58,5 @@
       all the time, it would be great to have an organ donor app which provides a
       lockscreen widget. Using this widget it would be possible to view the organ
       donor card even if the smartphone is locked.
+      <p>
+

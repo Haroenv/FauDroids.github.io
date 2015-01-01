@@ -1,0 +1,14 @@
+.idea-share{
+  margin-top:-0.9rem;
+}
+
+
+.ideas-share-button{
+  font-size:0.8rem;
+  cursor:pointer;
+}
+
+.ideas-share-link{
+  font-size:0.8rem;
+  display:none;
+}
