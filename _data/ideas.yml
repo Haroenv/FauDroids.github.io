@@ -66,11 +66,23 @@
       This is less on the useful and more on the fun / geeky side: imaging
       hooking up multiple smartphones in such a way that they together play a
       tune or song. With a lot of phones connected this could result in a setup
-      similar to a real life orchestra where each phone is repsonible for
+      similar to a real life orchestra where each phone is responsible for
       playing certain notes.
 
       Another possible way to look at this idea is to simulate a surround sound
       system using multiple phones. While probably not being a replacement for
       a real sound system, it could be a fun party trick with many people
       involved.
+
+- name: audio_streaming
+  title: Android to Android Audio Streaming
+  content: |+
+      Have you ever wanted to share your current audio / music stream that you
+      are listening with people that are in the same network but couldn't
+      because there wasn't a link to share? Well, why don't we just forward your audio stream
+      directly to your friends?
+
+      This app allows users to create a distributed speaker system, where one
+      client controls what music is currently playing and all other phones act
+      as speakers which can be spread across multiple rooms.
 
