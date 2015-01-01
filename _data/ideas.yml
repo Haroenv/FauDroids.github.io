@@ -60,3 +60,17 @@
       donor card even if the smartphone is locked.
       <p>
 
+- name: smartphone_orchestra
+  title: Smartphone Orchestra
+  content: |+
+      This is less on the useful and more on the fun / geeky side: imaging
+      hooking up multiple smartphones in such a way that they together play a
+      tune or song. With a lot of phones connected this could result in a setup
+      similar to a real life orchestra where each phone is repsonible for
+      playing certain notes.
+
+      Another possible way to look at this idea is to simulate a surround sound
+      system using multiple phones. While probably not being a replacement for
+      a real sound system, it could be a fun party trick with many people
+      involved.
+
