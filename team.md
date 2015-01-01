@@ -4,7 +4,11 @@ title: Team
 ---
 
 {% for author in site.data.members %}
+
+<div class="empty"></div>
+
 <a name="{{ author[0] }}"></a>
+<img class="author-gravatar" src="http://www.gravatar.com/avatar/{{ author[1].gravatar }}?d=mm&s=55" alt="gravatar" />
 ### {{ author[1].name }}
 <div class="author-role">{{ author[1].role }}</div>
 

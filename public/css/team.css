@@ -1,7 +1,18 @@
+.empty{
+  height:1px;
+}
+
+.author-gravatar{
+  float:left;
+  margin-right: 0.5rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0em;
+}
+
 .author-role{
   margin-top: -0.5rem;
   font-size:0.9rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.7rem;
   color: #9a9a9a;
 }
 

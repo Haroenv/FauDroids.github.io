@@ -25,6 +25,7 @@ would look for an author object called `bob` in the config file and get the corr
 The team site contains a generated list of all the team members that are currently working on one of the projects. New members can be added by editing the [\_data/members.yml](https://github.com/FauDroids/FauDroids.github.io/blob/master/_data/members.yml) file. The following options are available:
 
 - `name` of member which will be displayed below posts and on the team page
+- `gravatar` small profile image shown next to the name
 - `role` short description of what the team member is doing (e.g. Software Developer, Testing, Marketing, ...)
 - `message` custom text which is displayed on the team page
 - `email`, `github` and `homepage` optional contact information
