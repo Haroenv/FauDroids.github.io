@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-{% for author in site.authors %}
+{% for author in site.data.members %}
 <a name="{{ author[0] }}"></a>
 ### {{ author[1].name }}
 <div class="author-role">{{ author[1].role }}</div>
