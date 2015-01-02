@@ -31,7 +31,8 @@ description at the [challenges page]({{ site.baseurl }}/challenge).
 
 [Here]({{ site.baseurl }}/ideas)  you can find an overview of our current ideas
 and their progress.  If you have an idea of your own or want to comment on one
-of the exisiting ones be sure to drop us a note (TODO where?? Comments, mail?)
+of the exisiting ones be sure to drop us a note at 
+<a href="mailto:{{ site.contact.mail_ideas }}" target="_top">{{ site.contact.mail_ideas }}</a>!
 
 ### Team
 

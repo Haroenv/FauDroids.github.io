@@ -13,4 +13,8 @@ tagline:	            'FauDroids'
 url:	                http://faudroids.org/
 
 paginate:	            5
-github:                 https://github.com/FauDroids?tab=repositories
+
+# Contact
+contact:                 
+    github:	            https://github.com/FauDroids?tab=repositories
+    mail_ideas:	        ideas@faudroids.org
