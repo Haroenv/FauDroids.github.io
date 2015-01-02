@@ -1,6 +1,6 @@
 # Website
 
-This repo contains the source to our homepage hosted at https://faudroids.github.io. 
+This repo contains the source to our homepage hosted at http://faudroids.org. 
 
 ## Writing posts and creating pages
 
