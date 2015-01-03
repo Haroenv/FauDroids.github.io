@@ -86,3 +86,11 @@
       client controls what music is currently playing and all other phones act
       as speakers which can be spread across multiple rooms.
 
+- name: smartphone_memory
+  title: Smartphone Memory
+  content: |+
+      Want to play memory with your kids or friends but don't have any suitable
+      cards with you? No problem! Just put your and your friends' phones on the
+      table and open the memory app. Depending on the screensize each phone
+      will display the backside of a number of cards which you can tap to open.
+
