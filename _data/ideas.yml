@@ -94,3 +94,15 @@
       table and open the memory app. Depending on the screensize each phone
       will display the backside of a number of cards which you can tap to open.
 
+- name: nfc_time_tracker
+  title: Personal Time Tracker (NFC)
+  content: |+
+      Keeping an eye on your total time spent on a subject isn't always easy. 
+      Using NFC tags this job could be made much easier.
+
+      Utilizing your mobile as a stamp card you could check-in whenever you start 
+      working on a subject by simply placing it on top of an NFC tag.
+      As soon as you lift your mobile off the tag, the elapsed time gets measured and stored, 
+      giving you an exact overview on how long you've been working on something.
+
+      NOTE: This app requires additional hardware in form of NFC tags.
