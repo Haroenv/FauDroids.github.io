@@ -87,7 +87,7 @@
       as speakers which can be spread across multiple rooms.
 
 - name: smartphone_memory
-  title: Smartphone Memory
+  title: Smartphone Memory - DONE
   content: |+
       Want to play memory with your kids or friends but don't have any suitable
       cards with you? No problem! Just put your and your friends' phones on the
@@ -106,3 +106,7 @@
       giving you an exact overview on how long you've been working on something.
 
       NOTE: This app requires additional hardware in form of NFC tags.
+
+- name: werdroid
+  title: WerDroid - An assistant app for the card game "Die Werwölfe von Düsterwald"
+  content: |+
