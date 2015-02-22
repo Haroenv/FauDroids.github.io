@@ -113,3 +113,17 @@
   title: WerDroid
   content: |+
       An assistant app for the card game "Die Werwölfe von Düsterwald".
+
+- name: tripweather
+  title: Weather forecast for a trip
+  content: |+
+      Have you ever wondered how the weather might evolve while you are
+      planning for a trip? Regular weather forecasts are great, but limited in
+      a sense that they only provide data for one location, so getting
+      forecasts for a long trip which might take more than one day is a very
+      cumbersome and dull task.
+
+      This app will show you the weather forecast along a route that you can
+      choose. In addition all weather details will be based on the estimated
+      time when you will have reached a particular checkpoint. No more manually
+      entering multiple locations with different times!
