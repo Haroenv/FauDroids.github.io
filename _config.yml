@@ -18,3 +18,6 @@ paginate:	            5
 contact:                 
     github:	            https://github.com/FauDroids?tab=repositories
     mail_ideas:	        ideas@faudroids.org
+
+gems:
+    - jemoji
