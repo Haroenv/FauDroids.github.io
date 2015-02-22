@@ -110,6 +110,6 @@
       NOTE: This app requires additional hardware in form of NFC tags.
 
 - name: werdroid
-  title: WerDroid - 
+  title: WerDroid
   content: |+
       An assistant app for the card game "Die Werwölfe von Düsterwald".
