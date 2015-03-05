@@ -15,7 +15,15 @@ intentions and target groups.
 {% for idea in site.data.ideas %}
 
 <a name="{{ idea.name }}"></a>
+{% if idea.packageName %}
+### {{ idea.title }} - DONE
+<a href="https://play.google.com/store/apps/details?id={{ idea.packageName }}">
+<img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+</a>
+{% else %}
 ### {{ idea.title }}
+{% endif %}
+
 {{ idea.content }}
 
 <script type="text/javascript">
