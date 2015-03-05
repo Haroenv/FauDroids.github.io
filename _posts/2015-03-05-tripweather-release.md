@@ -15,4 +15,4 @@ and snow for that trip.
 	<img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a>
 
-![Work in progress weather app]({{ site.baseurl }}/public/imgs/tripweather_playstore_banner.png)
+![TripWeather playstore banner]({{ site.baseurl }}/public/imgs/tripweather_playstore_banner.png)
