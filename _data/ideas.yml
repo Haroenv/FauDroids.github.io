@@ -127,3 +127,19 @@
       choose. In addition all weather details will be based on the estimated
       time when you will have reached a particular checkpoint. No more manually
       entering multiple locations with different times!
+
+- name: conveyor_belts
+  title: Conveyor belts
+  content: |+
+      Everyone loves conveyor belts (I know you do too) and it's fun watching
+      stuff moving through a complicated maze before it reaches its
+      destination. And it only get's better when adding the ability to change
+      parts of the maze and dictate where that stuff is actually going.
+
+      This app will do just that, either in the context of an airport where
+      bags need to be forwarded to the right plane, or in the form of a sushi
+      restaurant where food should go to the customer who ordered it.
+
+      If time permits this game could also be played by combining multiple
+      screens (think people seeing different parts of the airport or the
+      restaurant).
