@@ -15,9 +15,22 @@ When writing new posts and setting the `author` variable in the front matter blo
 layout: post
 title: My first post
 author: bob
+comments: true
 ---
 ```
 would look for an author object called `bob` in the config file and get the corresponding full name.
+
+
+## Adding ideas
+
+The [\_data/ideas.yml](https://github.com/FauDroids/FauDroids.github.io/blob/master/_data/ideas.yml) file contains all the ideas that are shown on the site.
+
+Options for ideas are:
+
+- `name` to be used in the permalink
+- `title` actual title
+- `content` description of the idea
+- `packageName` optional Java package name of the finished app. If present this idea will be marked as "done" and a link to the playstore will be added
 
 
 ## Adding team members 
