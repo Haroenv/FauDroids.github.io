@@ -2,6 +2,7 @@
 layout: post
 title: Time flies by ...
 author: simon
+comments: true
 ---
 
 ... and we are already close to the end of January. 

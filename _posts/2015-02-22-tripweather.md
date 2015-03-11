@@ -2,6 +2,7 @@
 layout: post
 title: Weather forecast for trips
 author: philipp
+comments: true
 ---
 Turns out that writing exams, going to work, having a short month and wanting
 to build an awesome app don't mix very well. Well, who would have thought that? :D

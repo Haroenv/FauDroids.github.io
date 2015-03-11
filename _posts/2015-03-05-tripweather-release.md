@@ -2,6 +2,7 @@
 layout: post
 title: TripWeather released!
 author: philipp
+comments: true
 ---
 Slightly behind schedule but still within reason, our app for February has been
 released! As promised it's all about getting weather forecasts for longer

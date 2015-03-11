@@ -11,13 +11,12 @@ title:	                FauDroids
 description:	        'The Android challenge:<br>1 year, 12 months, 12 Android Apps'
 tagline:	            'FauDroids'
 url:	                http://faudroids.org/
-
 paginate:	            5
+
+# Comments
+disqus:	                'faudroids'
 
 # Contact
 contact:                 
     github:	            https://github.com/FauDroids?tab=repositories
     mail_ideas:	        ideas@faudroids.org
-
-gems:
-    - jemoji
