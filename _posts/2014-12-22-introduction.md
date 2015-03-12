@@ -2,6 +2,7 @@
 layout: post
 title: Introducing the Challenge
 author: philipp
+comments: true
 ---
 
 <div class="message">

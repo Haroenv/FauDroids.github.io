@@ -87,10 +87,9 @@
       as speakers which can be spread across multiple rooms.
 
 - name: smartphone_memory
-  title: Smartphone Memory - FINISHED
+  title: Smartphone Memory
+  packageName: org.faudroids.distributedmemory
   content: |+
-      Flippy Pairs is now available on Google Play: <a href="https://play.google.com/store/apps/details?id=org.faudroids.distributedmemory">Flippy Pairs on Google Play</a>
-      
       Want to play memory with your kids or friends but don't have any suitable
       cards with you? No problem! Just put your and your friends' phones on the
       table and open the memory app. Depending on the screensize each phone
@@ -108,9 +107,46 @@
       giving you an exact overview on how long you've been working on something.
 
       NOTE: This app requires additional hardware in form of NFC tags.
-      
+
+- name: werdroid
+  title: WerDroid
+  content: |+
+      An assistant app for the card game "Die Werwölfe von Düsterwald".
+
+- name: tripweather
+  title: Weather forecast for a trip
+  packageName: org.faudroids.tripweather
+  content: |+
+      Have you ever wondered how the weather might evolve while you are
+      planning for a trip? Regular weather forecasts are great, but limited in
+      a sense that they only provide data for one location, so getting
+      forecasts for a long trip which might take more than one day is a very
+      cumbersome and dull task.
+
+      This app will show you the weather forecast along a route that you can
+      choose. In addition all weather details will be based on the estimated
+      time when you will have reached a particular checkpoint. No more manually
+      entering multiple locations with different times!
+
+- name: conveyor_belts
+  title: Conveyor belts
+  content: |+
+      Everyone loves conveyor belts (I know you do too) and it's fun watching
+      stuff moving through a complicated maze before it reaches its
+      destination. And it only get's better when adding the ability to change
+      parts of the maze and dictate where that stuff is actually going.
+
+      This app will do just that, either in the context of an airport where
+      bags need to be forwarded to the right plane, or in the form of a sushi
+      restaurant where food should go to the customer who ordered it.
+
+      If time permits this game could also be played by combining multiple
+      screens (think people seeing different parts of the airport or the
+      restaurant).
+
 - name: box_club
   title: Android BoxClub
   content: |+
       An Android game which utilizes built-in sensors to give you the thrill of a real boxing match!
+
       By utilizing the built-in sensors of a typical Android phone we try to recreate the movement of a boxer. You will be able to throw punches by rotating your phone, take cover by tilting it to the back and maybe even more.

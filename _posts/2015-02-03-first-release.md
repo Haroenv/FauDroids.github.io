@@ -2,6 +2,7 @@
 layout: post
 title: First release
 author: simon
+comments: true
 ---
 Ladies and gentlemen, 
 
