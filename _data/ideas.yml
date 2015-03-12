@@ -108,8 +108,9 @@
       giving you an exact overview on how long you've been working on something.
 
       NOTE: This app requires additional hardware in form of NFC tags.
-
-- name: werdroid
-  title: WerDroid - 
+      
+- name: box_club
+  title: Android BoxClub
   content: |+
-      An assistant app for the card game "Die Werwölfe von Düsterwald".
+      An Android game which utilizes built-in sensors to give you the thrill of a real boxing match!
+      By utilizing the built-in sensors of a typical Android phone we try to recreate the movement of a boxer. You will be able to throw punches by rotating your phone, take cover by tilting it to the back and maybe even more.
