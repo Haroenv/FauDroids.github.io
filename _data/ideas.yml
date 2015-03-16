@@ -147,6 +147,24 @@
 - name: box_club
   title: Android BoxClub
   content: |+
-      An Android game which utilizes built-in sensors to give you the thrill of a real boxing match!
+      An Android game which utilizes built-in sensors to give you the thrill of
+      a real boxing match!
 
-      By utilizing the built-in sensors of a typical Android phone we try to recreate the movement of a boxer. You will be able to throw punches by rotating your phone, take cover by tilting it to the back and maybe even more.
+      By utilizing the built-in sensors of a typical Android phone we try to
+      recreate the movement of a boxer. You will be able to throw punches by
+      rotating your phone, take cover by tilting it to the back and maybe even
+      more.
+
+- name: jekyll_client
+  title: Jekyll Blogging Client
+  content: |+
+      It seems like every blogging software out there has their own specialized
+      android blogging client, be it
+      [WordPress](https://play.google.com/store/apps/details?id=org.wordpress.android),
+      [Blogger](https://play.google.com/store/apps/details?id=com.google.android.apps.blogger)
+      or [Tumblr](https://play.google.com/store/apps/details?id=com.tumblr)
+      except for Jekyll. Seems unfair? Let's change that!
+
+      So how about creating an app that is designed for writing quick markdown
+      post directly on your phone and has an integration with GitHub pages?
+      Awesome? Awesome!
