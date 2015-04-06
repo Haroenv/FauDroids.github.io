@@ -146,6 +146,7 @@
 
 - name: box_club
   title: Android BoxClub
+  packageName: org.faudroids.boxclub
   content: |+
       An Android game which utilizes built-in sensors to give you the thrill of
       a real boxing match!
