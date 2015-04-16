@@ -14,3 +14,19 @@ simon:
     email:	        mail@simon-hofmann.org
     github:	        s1hofmann
     homepage:	    https://simon-hofmann.org
+
+richard:
+    name:		Richard Baumann
+    role:		Software Developer
+    message:		Hello!		
+    email:		ohaz@users.noreply.github.com
+    github:		ohaz
+    homepage:		https://www.endless-aerospace.de
+
+julia:
+    name:		Julia Schottenhamml
+    role:		Software Developer
+    message:
+    email:		julia.schottenhamml@fau.de
+    github:		JuliaSchottenhamml
+    homepage:		
