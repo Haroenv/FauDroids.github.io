@@ -158,6 +158,7 @@
 
 - name: jekyll_client
   title: Jekyll Blogging Client
+  packageName: org.faudroids.mrhyde
   content: |+
       It seems like every blogging software out there has their own specialized
       android blogging client, be it
