@@ -108,11 +108,6 @@
 
       NOTE: This app requires additional hardware in form of NFC tags.
 
-- name: werdroid
-  title: WerDroid
-  content: |+
-      An assistant app for the card game "Die Werwölfe von Düsterwald".
-
 - name: tripweather
   title: Weather forecast for a trip
   packageName: org.faudroids.tripweather
