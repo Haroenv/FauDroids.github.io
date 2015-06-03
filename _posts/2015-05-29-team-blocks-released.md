@@ -17,7 +17,11 @@ Anyways, if you thought that the original was hard, you have not tried Team Bloc
 
 So long story short, Team Blocks is out, it's awesome, download it and send us a game invite if you feel like challenging one of us!
 
-![main screen](/public/imgs/teamblocks/01.png) ![tutorial](/public/imgs/teamblocks/02.png)
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td><img src="{{ site.baseurl }}/public/imgs/teamblocks/01.png" alt="Main menu"></td><td><img src="{{ site.baseurl }}/public/imgs/teamblocks/02.png" alt="Tutorial"</img></td>
+    </tr>
+</table>
 
 <a href="https://play.google.com/store/apps/details?id=org.faudroids.doublestacks">
 	<img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
