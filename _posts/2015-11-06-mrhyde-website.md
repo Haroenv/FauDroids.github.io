@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MrHyde
+title: MrHyde Website
 author: philipp
 comments: true
 ---
