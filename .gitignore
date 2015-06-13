@@ -3,4 +3,4 @@ _site
 
 # IDE files
 *.swp
-
+.idea
