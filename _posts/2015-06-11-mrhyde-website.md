@@ -3,6 +3,7 @@ layout: post
 title: MrHyde Website
 author: philipp
 comments: true
+tags: MrHyde
 ---
 
 While searching for a new app idea for June (which turns out to be a lot harder than we thought), we spent some time building a website for MrHyde. 

@@ -3,6 +3,7 @@ layout: post
 title: MrHyde 0.2.0 released
 author: philipp
 comments: true
+tags: MrHyde
 ---
 
 Today we are happy to announce the release of MrHyde 0.2.0, now with image
