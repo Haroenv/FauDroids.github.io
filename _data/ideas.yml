@@ -172,3 +172,11 @@
       New students often have problems finding the room they have to be in. This app
       should give them the possibility to just enter the room they're searching for and
       get navigation information. Just like a satnav in a car!
+
+- name: swipe_ideas
+  title: Swipe Ideas
+  content: |+
+      People have awesome ideas. This app should give them a way to figure out which one
+      of their ideas is the most awesome. Similar to tinder, you swipe left or right.
+      The twist is, that you don't swipe people, you swipe ideas, projects, features, etc.
+   
