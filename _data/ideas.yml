@@ -165,3 +165,10 @@
       So how about creating an app that is designed for writing quick markdown
       post directly on your phone and has an integration with GitHub pages?
       Awesome? Awesome!
+
+- name: fau_room_finder
+  title: FAU Room Finder
+  content: |+
+      New students often have problems finding the room they have to be in. This app
+      should give them the possibility to just enter the room they're searching for and
+      get navigation information. Just like a satnav in a car!
