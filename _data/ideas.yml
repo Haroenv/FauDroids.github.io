@@ -205,3 +205,17 @@
 
       The app lets you see which cards have been played on one central screen (e.g. tablet),
       while keeping your hand cards hidden on your phone.
+
+- name: bike_rescue
+  title: Bike rescue
+  content: |+
+      If you do your daily commute via bike you might have run into this situation:
+      almost at work with your head already deep into the challenges for this day
+      when **BAAM** you're front tire blows. Normally this isn't a problem *if* you
+      have the necessary tools with you, but what if you don't?
+
+      In Germany there is the ADAC when your car breaks down, but what about your bike?
+      What if you could use your smartphone to find fellow bikers near you who
+      have the tools required to fix up your bike? You could be on your way within
+      minutes in stead of having to interrupt family and friends in the middle of their day
+      and hope that somebody will pick you up.
