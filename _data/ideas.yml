@@ -180,3 +180,14 @@
       of their ideas is the most awesome. Similar to tinder, you swipe left or right.
       The twist is, that you don't swipe people, you swipe ideas, projects, features, etc.
    
+- name: siglocate
+  title: SigLocate
+  packageName: org.faudroids.foodcube
+  content: |+
+      It's lunch time and everybody is up and about in the cafeteria trying to find
+      that friend you promised to have lunch with today. Of course you could call / text
+      your friend, but surely there is a better way to do this?
+
+      Enter SigLocate! SigLocate has a map of the local cafeteria at the FAU, Germany
+      where you can simply click to select your sitting location and share the resulting
+      image via any other app.
