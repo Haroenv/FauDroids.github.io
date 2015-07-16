@@ -223,9 +223,19 @@
 - name: baby_faces
   title: Baby Faces
   content: |+
-      Probably every parent will have come across this at some point in the parenting career: having kids is great, but sometimes also a little scary to see just how quick they grow up and become adults. If you want to save some of those early memories from the toddler age, why not take a picture of your loved little one every week and have that compiled into a video once your kid reaches a certain age?
+      Probably every parent will have come across this at some point in the
+      parenting career: having kids is great, but sometimes also a little scary to
+      see just how quick they grow up and become adults. If you want to save
+      some of those early memories from the toddler age, why not take a picture
+      of your loved little one every week and have that compiled into a video
+      once your kid reaches a certain age?
 
 - name: smart_door_lock
   title: Smart door lock
   content: |+
-      The title says it all: a door (to your house for example) that will unlock itself once your phone approaches. Could be combined with keeping track how many people are inside, who they are and how long they have been there (think time tracking for work). Also a nice chance to play around with the [Eddystone framework](https://github.com/google/eddystone).
+      The title says it all: a door (to your house for example) that will
+      unlock itself once your phone approaches. Could be combined with keeping
+      track how many people are inside, who they are and how long they have
+      been there (think time tracking for work). Also a nice chance to play
+      around with the [Eddystone
+      framework](https://github.com/google/eddystone).
