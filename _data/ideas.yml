@@ -253,3 +253,17 @@
       What do you think would happen if we were to combine the best of those two
       worlds, such that you can run around your local university and catch those monsters
       right where you stand.
+
+- name: collaborative_photo_taking
+  title: Collaborative Photo Taking
+  content: |+
+      We have all seen it: you go on a trip with a couple of friends or with
+      your colleagues, you see something pretty, everyone takes out their camera
+      / smartphone and starts taking pictures. At the end of the day you realize that
+      you missed one or two great photo spots and start asking around is somebody
+      could provide the missing photos. If somebody is motivated enough you might
+      even open up a Dropbox folder where everyone can dump their photos.
+
+      While this works it doesn't feel very smooth and is definitely not
+      a lot of fun. Sure we can do better than that in 2015 and make taking photos in
+      a group fun and and enjoyable?
