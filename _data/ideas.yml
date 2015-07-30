@@ -267,3 +267,11 @@
       While this works it doesn't feel very smooth and is definitely not
       a lot of fun. Sure we can do better than that in 2015 and make taking photos in
       a group fun and and enjoyable?
+
+- name: order_food
+  title: Order Food together with Friends
+  content: |+
+      Whenever I want to order food with friends, we have the same problem: We can only
+      look at the menu on one mobile device. That slows down the process of ordering a 
+      lot. What if you could just look at the menu on multiple devices, click on what 
+      you want, and one person gathers all the requests automatically and orders them?
