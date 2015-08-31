@@ -275,3 +275,16 @@
       look at the menu on one mobile device. That slows down the process of ordering a 
       lot. What if you could just look at the menu on multiple devices, click on what 
       you want, and one person gathers all the requests automatically and orders them?
+
+- name: happy_hour_navigator
+  title: Happy Hour Navigator
+  content: |+
+      Image you and and friends are planning a night out in your local town and
+      are trying to find the bars with the best deals near you. In the good old
+      days (now!) you'd ask your friends about where the closest happy hour is
+      and if there is some clever way of combining that with happy hours of
+      other bars.
+      
+      That's of course a lot of manual work and you are bound to miss the best
+      deals unless you have some very up to date friends. So why isn't there
+      any app which helps you navigate the happy hours near you?
