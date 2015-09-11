@@ -7,9 +7,9 @@ body {
 .jumbotron {
     padding: 0;
     width: 100%;
-    background: #0d0d0d
+    background: transparent;
 }
-@media only screen and (min-height : 750px) {
+@media only screen and (min-height : 600px) and (min-width : 768px) {
     .jumbotron {
         position: absolute;
         top: 50%;
@@ -24,14 +24,14 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     height: 200px;
-    -webkit-filter: brightness(0.1) grayscale(100%) blur(1px) opacity(50%);
+    -webkit-filter: opacity(0%);
     -webkit-transition: all 1s;
-    filter: brightness(0.1) grayscale(100%) blur(1px) opacity(50%);
+    filter: opacity(0%);
     transition: all 1s;
 }
 .banner-faudroids {
-    -webkit-filter: grayscale(100%) blur(2px) opacity(5%);
-    filter: grayscale(100%) blur(2px) opacity(5%);
+    -webkit-filter: blur(3px) opacity(30%);
+    filter: blur(3px) opacity(30%);
 }
 .banner-action {
     -webkit-filter: opacity(0);
