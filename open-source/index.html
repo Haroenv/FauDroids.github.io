@@ -175,13 +175,13 @@
 
     // toggle banner visibility
     var showFunc = function() {
-        $(this).find(".banner").stop().animate({ opacity: 1 });
-        $(this).find(".banner-action, .banner-faudroids").stop().fadeIn();
+        $(this).find(".banner, .banner-action").stop().animate({ opacity: 1 });
+        $(this).find(".banner-faudroids").stop().fadeIn();
         $(this).find(".banner-title").stop().fadeOut();
     };
     var hideFunc = function() {
-        $(this).find(".banner").stop().animate({ opacity: 0 });
-        $(this).find(".banner-action, .banner-faudroids").stop().fadeOut();
+        $(this).find(".banner, .banner-action").stop().animate({ opacity: 0 });
+        $(this).find(".banner-faudroids").stop().fadeOut();
         $(this).find(".banner-title").stop().fadeIn();
     };
     $(".banner-container")

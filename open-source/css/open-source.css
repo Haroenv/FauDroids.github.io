@@ -34,7 +34,6 @@ body {
 .banner-action {
     position: absolute;
     bottom: 5px;
-    display: none;
     opacity: 0;
 }
 .banner-title {
