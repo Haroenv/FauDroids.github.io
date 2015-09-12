@@ -187,12 +187,37 @@
                 .height(bannerHeight)
                 .css('background-size', 'cover');
     };
-    $(document).ready(bannerResizeFunc);
     $(window).resize(bannerResizeFunc);
+
+    // intro animation
+    var introAnimationFinished = false;
+    var bannerTitleIntroAnimationFunc = function() {
+        var delay = 0;
+        var idx = 0;
+        $(".banner-title").each(function() {
+            $(this).hide();
+            if (idx == 8) {
+                $(this).delay(delay).fadeIn(function() {
+                    introAnimationFinished = true;
+                });
+            } else {
+                $(this).delay(delay).fadeIn();
+            }
+
+            delay = delay + 100;
+            idx = idx + 1;
+        });
+    };
+
+    $(document).ready(function() {
+        bannerResizeFunc();
+        bannerTitleIntroAnimationFunc();
+    });
 
 
     // toggle banner visibility
     var showFunc = function() {
+        if (!introAnimationFinished) return;
         $(this).find(".banner, .banner-action").stop().animate({ opacity: 1 });
         $(this).find(".banner-faudroids").stop().fadeIn();
         $(this).find(".banner-title").stop().fadeOut();
