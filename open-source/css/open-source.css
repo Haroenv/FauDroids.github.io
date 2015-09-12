@@ -35,6 +35,7 @@ body {
     position: absolute;
     bottom: 5px;
     display: none;
+    opacity: 0;
 }
 .banner-title {
     position: absolute;
