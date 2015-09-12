@@ -2,14 +2,16 @@ html, body {
     height: 100%;
 }
 body {
-    background: #0d0d0d
+    background: #0d0d0d;
+    color: white;
+    font-family: 'Vollkorn', serif;
 }
 .jumbotron {
     padding: 0;
     width: 100%;
     background: transparent;
 }
-@media only screen and (min-height : 600px) and (min-width : 768px) {
+@media only screen and (min-width : 992px) {
     .jumbotron {
         position: absolute;
         top: 50%;
@@ -19,31 +21,39 @@ body {
 .container-fluid {
     width: 100%;
 }
+.banner-container {
+    padding: 0;
+}
 .banner {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 200px;
-    -webkit-filter: opacity(0%);
-    -webkit-transition: all 1s;
-    filter: opacity(0%);
-    transition: all 1s;
-}
-.banner-faudroids {
-    -webkit-filter: blur(3px) opacity(30%);
-    filter: blur(3px) opacity(30%);
+    height: 250px;
+    opacity: 0;
 }
 .banner-action {
-    -webkit-filter: opacity(0);
-    -webkit-transition: all 1s;
-    filter: opacity(0);
-    transition: all 1s;
     position: absolute;
     bottom: 5px;
+    display: none;
 }
-.banner:hover, .banner:hover .banner-action{
-    -webkit-filter: none;
-    filter: none;
+.banner-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: x-large;
+}
+.banner-faudroids {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: x-large;
+    display: none;
+}
+.banner-faudroids a {
+    text-decoration: none;
+    color: white;
 }
 .fa-github {
     right: 65px;
