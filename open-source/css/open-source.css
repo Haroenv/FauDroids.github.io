@@ -31,10 +31,19 @@ body {
     height: 250px;
     opacity: 0;
 }
-.banner-action {
+.banner-action-github {
     position: absolute;
     bottom: 5px;
     opacity: 0;
+    right: 5px;
+    color: #E1F5FE;
+}
+.banner-action-playstore {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 .banner-title {
     position: absolute;
@@ -66,13 +75,4 @@ body {
     font-size: x-large;
     text-decoration: none;
     color: white;
-}
-.fa-github {
-    right: 65px;
-}
-.fa-download {
-    right: 5px;
-}
-.fa {
-    color: #E1F5FE;
 }
