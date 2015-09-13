@@ -166,6 +166,7 @@
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="js/velocity.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 <script>
@@ -193,19 +194,17 @@
     var introAnimationFinished = false;
     var bannerTitleIntroAnimationFunc = function() {
         var delay = 0;
-        var idx = 0;
-        $(".banner-title").each(function() {
-            $(this).hide();
-            if (idx == 8) {
-                $(this).delay(delay).fadeIn(function() {
+        var counter = 0;
+        $(".banner-title > span").each(function() {
+            var idx = counter;
+            $(this).css('font-size', '0em');
+            $(this).delay(delay).velocity({fontSize: '2em'}, 800, "spring", function () {
+                if (idx == 8) {
                     introAnimationFinished = true;
-                });
-            } else {
-                $(this).delay(delay).fadeIn();
-            }
-
-            delay = delay + 100;
-            idx = idx + 1;
+                }
+            });
+            delay = delay + 80;
+            counter = counter + 1;
         });
     };
 
@@ -218,12 +217,12 @@
     // toggle banner visibility
     var showFunc = function() {
         if (!introAnimationFinished) return;
-        $(this).find(".banner, .banner-action-github").stop().animate({ opacity: 1 });
+        $(this).find(".banner, .banner-action-github").stop().velocity({ opacity: 1 });
         $(this).find(".banner-faudroids").stop().fadeIn();
         $(this).find(".banner-title").stop().fadeOut();
     };
     var hideFunc = function() {
-        $(this).find(".banner, .banner-action-github").stop().animate({ opacity: 0 });
+        $(this).find(".banner, .banner-action-github").stop().velocity({ opacity: 0 });
         $(this).find(".banner-faudroids").stop().fadeOut();
         $(this).find(".banner-title").stop().fadeIn();
     };
