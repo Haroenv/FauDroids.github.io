@@ -1,24 +1,25 @@
 philipp:
-    name:	        Philipp Eichhorn
-    gravatar:	    d8326df23818d5ab8d0c352a4e70789e
-    role:	        Software Developer
-    message:	    Hi there! My name is Philipp and I am studying computer science here in Germany. Make sure to drop me a note in case you find some of the projects interesting!
-    email:	        philipp.eichhorn@bitdroid.de
-    github:	        Maddoc42
-    homepage:	    http://bitdroid.de
+    name:	    Philipp Eichhorn
+    gravatar:	d8326df23818d5ab8d0c352a4e70789e
+    role:	    Software Developer
+    message:	Hi there! My name is Philipp and I am studying computer science here in Germany. Make sure to drop me a note in case you find some of the projects interesting!
+    email:	    philipp.eichhorn@bitdroid.de
+    github:	    Maddoc42
+    homepage:	http://bitdroid.de
 
 simon:
-    name:	        Simon Hofmann
-    role:	        Software Developer
-    message:	    I'm a computer science student with love for little handcrafted tools which help me do my stuff. If you want to get in contact with me, feel free to drop me a message!
-    email:	        mail@simon-hofmann.org
-    github:	        s1hofmann
-    homepage:	    https://simon-hofmann.org
+    name:	    Simon Hofmann
+    role:	    Software Developer
+    message:	I'm a computer science student with love for little handcrafted tools which help me do my stuff. If you want to get in contact with me, feel free to drop me a message!
+    email:	    mail@simon-hofmann.org
+    github:	    s1hofmann
+    homepage:	https://simon-hofmann.org
 
 richard:
     name:		Richard Baumann
     role:		Software Developer
-    message:		
+    gravatar:	dde09fa230061fdecf67d0c8f35297ed
+    message:	Hmmmmmm, Erdbeerkuchen!
     email:		ohaz@users.noreply.github.com
     github:		ohaz
     homepage:		https://www.endless-aerospace.de
