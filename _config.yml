@@ -8,6 +8,7 @@ relative_permalinks:	true
 
 # Setup
 title:	                FauDroids
+name:	                FauDroids
 description:	        'The Android challenge:<br>1 year, 12 months, 12 Android Apps'
 tagline:	            'FauDroids'
 url:	                http://faudroids.org/
