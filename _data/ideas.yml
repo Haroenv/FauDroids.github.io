@@ -288,3 +288,12 @@
       That's of course a lot of manual work and you are bound to miss the best
       deals unless you have some very up to date friends. So why isn't there
       any app which helps you navigate the happy hours near you?
+      
+      - name: jumping_dinner
+  title: Jumping Dinner Orga Service
+  content: |+
+      Organising a so called "Jumping Dinner" can be extremely time intensive as the 
+      matching of tens or potentially hundreds of participants by hand will surely at 
+      some point mess with you sanity ;-). Hence, the idea is to create a service which
+      automates the registration, matching and other, time-intensive tasks which arise 
+      around the organisation of a Jumping Dinner. 
