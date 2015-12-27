@@ -222,6 +222,7 @@
 
 - name: baby_faces
   title: Baby Faces
+  packageName: org.faudroids.babyface
   content: |+
       Probably every parent will have come across this at some point in the
       parenting career: having kids is great, but sometimes also a little scary to
