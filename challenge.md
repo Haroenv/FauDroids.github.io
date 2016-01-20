@@ -32,4 +32,4 @@ accomplish:
 
 At the end of January we will post a link to our account in the appstore where
 you can find all our released apps. In the meantime checkout our
-[GitHub account]({{ site.github }}) to see our current progess.
+[GitHub account]({{ site.contact.github }}) to see our current progess.
